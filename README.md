@@ -1,8 +1,7 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Alamdave Gill</h1>
 <h3 align="center">A passionate developer from London, United Kingdom.</h3>
 
-- 🌱 I’m currently learning **Azure.**
+- 🌱 I’m currently learning **Cloud Engineering.**
 
 - 📫 How to reach me **alamdave@gmail.com**
 
