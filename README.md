@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alamdave Gill</h1>
-<h3 align="center">A passionate developer from London, United Kingdom.</h3>
+<h3 align="center">A passionate full stack developer from London, United Kingdom.</h3>
 
-- 🌱 I’m currently learning **Cloud Engineering.**
+- 🌱 I’m currently learning **K8S**
 
 - 📫 How to reach me **alamdave@gmail.com**
 
